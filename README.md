@@ -1,6 +1,6 @@
 # FEED THE NEED APP
 An android app that connects food donors with receivers. This app allows user to locate the donor or receiver in their locality based on the entered pin-code. Apart from this when the donation is successful the donor would  become eligible for reward in the form of cryptocurrency. 
-##Modules - 
+## Modules - 
 ### App Start up -
 1. Splash screen - Logo of app and the splash screen playing a video of food donation with a small quote.
 2. Navigation screnn with four windows for navigation - 
